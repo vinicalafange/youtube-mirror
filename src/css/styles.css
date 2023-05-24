@@ -1,0 +1,25 @@
+.search-bar{
+display: inline-block
+}
+
+.logo{
+    width: 100px;
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+}
+
+.non-thumbnail-div{
+    display: flex;
+    
+}
+
+.channel-picture{
+    width: 45px;
+    border-radius: 50%;
+    margin-right: 18px;
+}
+
+
